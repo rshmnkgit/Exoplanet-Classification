@@ -15,7 +15,7 @@ The KNN model prediction is similar to the logisitc regression model. This is 98
 ### Gaussian Naive Bayes Model
 This model is only 44% accurate in predicting the candidate category. So this is not a good model for the dataset.
 
-### Support Vetor Machine (SVM) Model
+### Support Vector Machine (SVM) Model
 This SVM model prediction is better than both logisitc regression, gaussian naive bayes and knn models. This is 98% accurate in predicting the 'False positive' category, 81% accurate in 'Candidate' category and 79% accurate in predicting 'Confirmed' category
 
 
